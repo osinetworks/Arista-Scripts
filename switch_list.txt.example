@@ -1,0 +1,16 @@
+# Arista Switch List
+# One IP address per line
+# Lines starting with # are comments
+
+# Core Switches
+10.1.1.10
+10.1.1.11
+
+# Distribution Switches
+10.1.1.20
+10.1.1.21
+
+# Access Switches
+10.1.1.30
+10.1.1.31
+10.1.1.32

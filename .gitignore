@@ -1,0 +1,40 @@
+cat > .gitignore << 'EOF'
+# Sensitive Configuration Files
+arista.env.sh
+switch_list.txt
+
+# SSH Keys
+*.pem
+*.key
+*_key
+*_key.pub
+.ssh/
+
+# Logs and Output
+logs/
+*.log
+
+# Firmware Files (too large for git)
+*.swi
+*.md5
+
+# Configuration Backups
+config/
+*.cfg
+
+# Backup Files
+*.bak
+*~
+*.swp
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.sublime-*
+
+EOF
