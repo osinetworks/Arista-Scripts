@@ -396,7 +396,7 @@ This tool is provided as-is. Always follow your organization's change management
 
 ## 👥 Author
 
-Network Engineering Team
+Ozden Sicim - Network Engineer
 
 ## 🔗 Related Resources
 
