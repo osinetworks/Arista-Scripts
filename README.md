@@ -1,6 +1,6 @@
 # Arista EOS Firmware Upgrade Automation
 
-Automated bash scripts for upgrading Arista EOS switches via HTTP with MD5 verification. Designed for environments with limited tools (WSL and any Linux distro without Python libraries).
+Automated bash scripts for upgrading Arista EOS switches via HTTP with MD5 verification. Designed for environments with limited tools (WSL without Python libraries).
 
 ## ✨ Features
 
