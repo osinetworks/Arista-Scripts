@@ -400,7 +400,7 @@ Network Engineering Team
 
 ## 🔗 Related Resources
 
-- [Arista EOS Software Upgrade Guide](https://www.arista.com/en/support/software-download)
-- [Arista EOS Manual](https://www.arista.com/en/support/product-documentation)
-- [SSH Key Authentication Guide](https://www.arista.com/en/um-eos/eos-ssh-secure-shell)
+- [Arista EOS Software Upgrade Guide](https://www.arista.com/en/um-eos/eos-upgrades-and-downgrades)
+- [Arista EOS Manual](https://www.arista.com/en/um-eos)
+- [SSH Key Authentication Guide](https://arista.my.site.com/AristaCommunity/s/article/ssh-login-without-password)
 
