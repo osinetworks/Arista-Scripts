@@ -38,11 +38,9 @@ while read -r SWITCH; do
 
 	aaa authorization exec default local
         
-	int eth1-24
-	no ip igmp static-group 224.0.1.129
 	
 	int vlan${i}
-	ip igmp static-group 224.0.1.129
+	ip igmp static-group 224.1.1.1
 	end
 	wr mem
 EOF
